@@ -44,3 +44,15 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Meu Linktree [:link:](https://linktr.ee/gbiel.ofc)
   - [Linktree] (https://linktr.ee/gbiel.ofc)
 
+
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbiel-ofc&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbiel-ofc&show_icons=true&theme=tokyonight)
+[![Gbiel-ofc](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel-ofc&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel-ofc&layout=compact&theme=tokyonight) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
