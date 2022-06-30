@@ -1,7 +1,6 @@
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
+![24Br](https://user-images.githubusercontent.com/74468444/176578692-fe6974a3-e39e-47aa-914b-e133e1ea411b.gif)
 
 <hr>
 
@@ -55,4 +54,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 [![Gbiel-ofc](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel-ofc&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel-ofc&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
