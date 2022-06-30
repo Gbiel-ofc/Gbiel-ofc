@@ -13,7 +13,7 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Gabriel! 🇧🇷
+Olá, eu sou o ***Gabriel Nascimento***! 🇧🇷
 <br>
 
 </h3>
@@ -37,9 +37,9 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+- ***Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências.*** 😄
 
-- Estou cursando Análise e Desenvolvimento de Sistemas. 💻
+- _Estou cursando Análise e Desenvolvimento de Sistemas. 💻_
 
 ## Meu Linktree [:link:](https://linktr.ee/gbiel.ofc)
   - [Linktree] (https://linktr.ee/gbiel.ofc)
