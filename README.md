@@ -33,6 +33,14 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - Java
   - MongoDB
   
+  ## Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="Office" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
