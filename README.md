@@ -1,6 +1,6 @@
 <h4 align="center">
  
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/74468444/176579659-9fa43623-d21c-4d9d-a22d-2530835ce49f.gif)
+![minha imagem](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <hr>
 
